@@ -1,0 +1,29 @@
+🎯 Use Cases
+
+Film students analyzing directorial styles
+Movie enthusiasts exploring thematic patterns
+Data visualization practice and learning
+Text analysis educational projects
+Cinema research and academic studies
+
+📈 Example Output
+The tool generates word clouds that highlight:
+
+Most frequent words in larger font sizes
+Common themes across a director's work
+Storytelling patterns and preferred vocabulary
+Visual representation of narrative elements
+
+🛠️ Technical Details
+
+Language: Python 3.6+
+
+Libraries Used:
+pandas: Data manipulation and analysis
+numpy: Numerical operations
+matplotlib: Data visualization
+wordcloud: Word cloud generation
+
+
+Input: Director name (case-insensitive)
+Output: Visual word cloud display
